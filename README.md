@@ -3,4 +3,4 @@
 Creating and Implementing a relational database using MySQL/PoPSQL.
 
 
-Thank you Mike Dane!
+GIRAFFE ACADEMY COURSE!!

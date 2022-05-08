@@ -1,6 +1,6 @@
 # A-Relational-Database-using-SQL
+
 Creating and Implementing a relational database using MySQL/PoPSQL.
 
 
-
-Thankyou Mike Dane!
+Thank you Mike Dane!
